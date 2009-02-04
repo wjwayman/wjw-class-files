@@ -1,0 +1,56 @@
+body{
+	font-family:Verdana, Helvetica, Arial, san-serif;
+	background-color:#e2edff;
+	line-height:125%;
+	padding:15px;
+	font-size:small;
+}
+
+p{
+	color:Navy;
+	font-size:small;
+}
+
+#tagline{
+	font-style:italic;
+	font-family:Georgia, Time, Serif;
+}
+
+h1{
+	font-family:"Trebuchet MS", Helvetica, Arial, san-serif;
+	background-color:Navy;
+	color:White;
+}
+
+h2{
+	color:blue;
+	font-size:medium;
+	font-weight:normal;
+	background-color:Navy;
+	color:White;
+}
+
+h3{
+	background-color:Navy;
+	color:White;
+}
+
+em{
+	text-transform:uppercase;
+}
+
+ul{
+	font-size:small;
+}
+
+a{
+	font-weight:bold;
+}
+
+.fun{
+	font-family:Georiga, Times, serif;
+	color:399;
+	letter-spacing:.05em;
+	font-style:itallic;
+}
+
